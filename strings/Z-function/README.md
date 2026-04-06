@@ -1,5 +1,8 @@
-# Z-функция
+# Z-function
 
-Вычисляет массив `z`, где `z[i]` — длина наибольшего префикса строки `s`, совпадающего с подстрокой с позиции `i`.
+Computes array `z`, where `z[i]` is the length of the longest substring starting at `i` that matches the prefix of the string.
 
-Сложность: O(n)
+## Complexity
+
+- Time: O(n)
+- Memory: O(n)
